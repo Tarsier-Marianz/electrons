@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tarsier-Marianz/electrons/issues"
   },
-  "homepage": "https://github.com/Tarsier-Marianz/electrons#readme"
+  "homepage": "https://github.com/Tarsier-Marianz/electrons#readme",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  }
 }
